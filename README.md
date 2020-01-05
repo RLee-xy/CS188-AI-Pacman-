@@ -1,1 +1,1 @@
-# CS188-AI-Pacman-
+# CS188-AI-Pacman
